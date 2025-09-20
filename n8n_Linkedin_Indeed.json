@@ -794,7 +794,7 @@
     },
     {
       "parameters": {
-        "url": "https://api.apify.com/v2/datasets/EPGKTmC1CJLz4Nhsx/items?token=apify_api_mVgBKak7P0daa6NwobzQk1ajHeYL9l3nzgQN",
+        "url": "https://api.apify.com/v2/datasets/EPGKTmC1CJLz4Nhsx/items?token=apify_api",
         "authentication": "genericCredentialType",
         "genericAuthType": "httpBearerAuth",
         "sendBody": true,
