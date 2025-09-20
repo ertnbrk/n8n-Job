@@ -2,6 +2,8 @@
 
 Bu proje, LinkedIn ve Indeed üzerinden toplanan iş ilanlarını **otomatik filtreleyen**, **özelleştirilmiş CV ve Cover Letter üreten** ve tüm sonuçları **Google Sheets’e kaydeden** bir otomasyon workflow’udur.  
 
+<img width="1365" height="676" alt="Screenshot 2025-09-20 232658" src="https://github.com/user-attachments/assets/483f8325-6534-43c6-b783-5ef8aaf766ef" />
+
 ## 🚀 Özellikler
 
 - **Job Scraping**  
